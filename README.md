@@ -1,8 +1,7 @@
 <h1 align="center">Привет, я <a href="https://github.com/maniastel" target="_blank">Мария</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h2>Обо мне</h2>
-Я QA Engineer с 2021 года. Имею опыт тестирования веб-разработок E-Commerce. В данный момент, изучаю автоматизацию QA на Java.
-
+<h3>Обо мне</h3>
+Я QA Engineer с 2021 года. Имею опыт тестирования веб-разработок E-Commerce. В данный момент, изучаю автоматизацию QA на Java.  
 
 
 
