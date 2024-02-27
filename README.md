@@ -29,7 +29,9 @@
 ### My projects
 
 :desktop_computer: [Demo-simtechdev.ru](https://github.com/maniastel/demo-simtechdev.ru) -  демо-проект UI автотестирования сайта simtechdev.ru
+
 :outbox_tray: [Petstore-api-tests](https://github.com/maniastel/petstore-api-tests) - демо-проект API автотестирования сервиса Petstore
+
 :iphone: [Wiki-mobile-tests](https://github.com/maniastel/qaquru-23-bs-mobile-test) - демо-проект автотестирования мобильного приложения Wiki
 
 
