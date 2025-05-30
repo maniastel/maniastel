@@ -8,9 +8,10 @@
 
 ## Портфолио
 - Тестовая документация
-  - Чек-листы
-  - Тест-кейсы
-  - Баг-репорты 
+  - [Чек-листы](https://docs.google.com/spreadsheets/d/1ywOWtD2rXe_xopIWDVlK44-ymC6wHDn9Iyw_tVF32Fc/edit?gid=541475809#gid=541475809)
+  - [Тест-кейсы](https://docs.google.com/spreadsheets/d/1ywOWtD2rXe_xopIWDVlK44-ymC6wHDn9Iyw_tVF32Fc/edit?gid=2028998713#gid=2028998713)
+  - [Тест-кейсы проверок API](https://docs.google.com/spreadsheets/d/1ywOWtD2rXe_xopIWDVlK44-ymC6wHDn9Iyw_tVF32Fc/edit?gid=909079626#gid=909079626)
+  - [Баг-репорты](https://docs.google.com/spreadsheets/d/1NiDlrobArQdytoQlH40pIzybbSYxKVo4pBpKukkeGfs/edit?gid=0#gid=0) 
 
 ### Automation Stack:
 
